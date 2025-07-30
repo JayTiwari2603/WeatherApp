@@ -34,6 +34,12 @@ A simple and responsive weather application built using **Java**, **JSP**, **Ser
 3. Configure and run on Apache Tomcat.
 4. Enter a city name and view its weather details.
 
+## 📸 Screenshot
+
+![App Screenshot](https://github.com/JayTiwari2603/WeatherApp/blob/main/homepage.png?raw=true)
+
+
 🛠️ Author
 Jayantkumar Tiwari
 🔗 GitHub
+
