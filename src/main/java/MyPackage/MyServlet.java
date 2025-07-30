@@ -39,7 +39,7 @@ public class MyServlet extends HttpServlet {
         }
 
         try {
-            String apiKey = "4eee8aa1bcad7b2f23277b284dafb0ff"; // <--- Your actual API key!
+            String apiKey = "";  //Removed for security
             String cityEncoded = java.net.URLEncoder.encode(city, "UTF-8");
             String apiUrl = "https://api.openweathermap.org/data/2.5/weather?q=" + cityEncoded + "&appid=" + apiKey;
 
